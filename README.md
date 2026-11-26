@@ -1,4 +1,4 @@
-# GSZ Loader v4.0
+# GSZ Loader v4.0 
 
 PUBG Mod Loader dengan floating menu overlay. Support root dan non-root (Shizuku).
 
